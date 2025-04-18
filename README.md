@@ -3,20 +3,18 @@
 
 ---
 
-💻 I'm an Electronics and Communication Engineering student at **BVUCOE Pune** with a passion for blending **hardware, software, and design**. From building circuits to crafting engaging visuals, I love turning ideas into real-world impact.
+💻 I'm an Electronics and Communication Engineering student at **BVUCOE Pune** with a passion for blending **hardware, software, and design**. I enjoy exploring cutting-edge technologies and expressing my creativity through digital and visual mediums.
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in **Electronics & Communication** (2022–2026)  
-- 🚀 Exploring **AI/ML**, **VLSI**, and **Blockchain/Web3**
-- 🎨 Head Graphic Designer at [BLOTIC Club](#)  
+- 🚀 Passionate about **AI/ML**, **VLSI**, and **Web3**
+- 🎨 Head Graphic Designer at [BLOTIC Club](#)
 - 🖌️ Design Lead at [Malang Fine Arts Club](#)
-- 🧠 Deep Learning Project: **Brain Tumor Detection using VGG16**
-- 🤖 Working on: **Autonomous Camera Drone Project** for IIT Goa Internship
-- 🌱 Learning: **Vivado (VHDL)** | Prompt Engineering | TensorFlow
-- 💡 Interests: Circuits, AI, Visuals, and Web3 tech!
+- 🌱 Currently learning: **VHDL**, **Prompt Engineering**, and **TensorFlow**
+- 💡 Interests: Electronics, Circuit Design, Deep Tech, Creative Media & Blockchain
 
 ---
 
@@ -26,9 +24,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded C-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VHDL-9932CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-9932CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Proteus-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
@@ -49,7 +47,6 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 💻 [Portfolio (Coming Soon)](https://YOUR-PORTFOLIO.com)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 📧 Email: gsahu22.ece@outlook.com
 
