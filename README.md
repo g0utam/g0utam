@@ -38,16 +38,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Goutam's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=g0utam&show_icons=true&theme=tokyonight" alt="Goutam's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g0utam&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/g0utam/)
+- 🐦 Twitter: [@yourhandle](https://x.com/Goutamsahu_in)
 - 📧 Email: gsahu22.ece@outlook.com
 
 ---
