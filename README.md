@@ -11,8 +11,8 @@
 
 - 🎓 B.Tech in **Electronics & Communication** (2022–2026)  
 - 🚀 Passionate about **AI/ML**, **VLSI**, and **Web3**
-- 🎨 Head Graphic Designer at [BLOTIC Club](#)
-- 🖌️ Design Lead at [Malang Fine Arts Club](#)
+- 🎨 Head Graphic Designer at [BLOTIC Club](https://github.com/Blotic-BVUCOEP)
+- 🖌️ Design Lead at [Malang Fine Arts Club](https://github.com/Malang-bvp)
 - 🌱 Currently learning: **VHDL**, **Prompt Engineering**, and **TensorFlow**
 - 💡 Interests: Electronics, Circuit Design, Deep Tech, Creative Media & Blockchain
 
@@ -47,7 +47,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/g0utam/)
-- 🐦 Twitter: [@yourhandle](https://x.com/Goutamsahu_in)
+- 🐦 Twitter: [@Goutamsahu_in](https://x.com/Goutamsahu_in)
 - 📧 Email: gsahu22.ece@outlook.com
 
 ---
