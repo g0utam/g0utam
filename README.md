@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Goutam Sahu</h1>
+<p align="center">
+  <img src="https://github.com/g0utam/g0utam/blob/main/gitbanner.jpg" alt="Goutam Sahu Banner" width="100%" />
+</p>
 <h3 align="center">Creative Techie | Electronics + AI + Web3 | Graphic Designer</h3>
 
 ---
