@@ -48,7 +48,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/g0utam/)
-- 🐦 Twitter: [@Goutamsahu_in](https://x.com/g0utam_s)
+- 🐦 Twitter: [@g0utam_s](https://x.com/g0utam_s)
 - 📧 Email: gsahu22.ece@outlook.com
 
 ---
