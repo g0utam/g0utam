@@ -1,56 +1,103 @@
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://github.com/g0utam/g0utam/blob/main/gitbanner.jpg" alt="Goutam Sahu Banner" width="100%" />
-</p>
-<h3 align="center">Creative Techie | Electronics + AI + Web3 | Graphic Designer</h3>
-
----
-
-💻 I'm an Electronics and Communication Engineering student at **BVUCOE Pune** with a passion for blending **hardware, software, and design**. I enjoy exploring cutting-edge technologies and expressing my creativity through digital and visual mediums.
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 B.Tech in **Electronics & Communication** (2022–2026)  
-- 🚀 Passionate about **AI/ML**, **VLSI**, and **Web3**
-- 🎨 Head Graphic Designer at [BLOTIC Club](https://github.com/Blotic-BVUCOEP)
-- 🖌️ Design Lead at [Malang Fine Arts Club](https://github.com/Malang-bvp)
-- 🌱 Currently learning: **VHDL**, **Prompt Engineering**, and **TensorFlow**
-- 💡 Interests: Electronics, Circuit Design, Deep Tech, Creative Media & Blockchain
-
----
-
-### 🔧 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded C-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VHDL-9932CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Proteus-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Goutam%20Sahu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h3 align="center">
+Creative Techie | Electronics Engineer | Web3 & AI Enthusiast | Designer
+</h3>
+
 ---
 
-### 📈 GitHub Stats
+## 👋 About Me
+
+I’m an **Electronics & Communication Engineering undergraduate (2022–2026)** who loves building at the intersection of **hardware, software, creativity, and blockchain**.  
+From **ESP32-based IoT systems** and **VHDL design** to **AI projects and Web3 communities**, I enjoy turning ideas into real-world solutions.
+
+I strongly believe that **engineering + creativity = impact**.
+
+---
+
+## 🏫 Leadership & Club Positions
+
+🎨 **Co-Head – Malang**  
+*Fine Arts & Photography Club, BVUCOE Pune*  
+- Leading creative direction, exhibitions, and inter-college cultural events  
+- Managing design, photography, and visual storytelling initiatives  
+
+🖌️ **Head Graphic Designer – BLOTIC**  
+*College Web3 & Blockchain Club*  
+- Built and maintained the club’s visual identity  
+- Designed event creatives, posters, social media assets, and branding  
+- Played a key role in Web3 events, workshops, and hackathon promotions  
+
+---
+
+## 🔬 Academic & Technical Interests
+
+- Embedded Systems & IoT (ESP32, sensors, cloud integration)
+- VHDL & Digital Design (Vivado)
+- Artificial Intelligence & Machine Learning
+- Web3, Blockchain & Decentralized Applications
+- Creative Design & Visual Communication
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming & Hardware
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-6E4C13?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)
+
+### 🤖 AI & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🚀 Highlighted Work
+
+- **IoT & IIoT Experiments** – ESP32 sensor data to ThingSpeak  
+- **VHDL Projects** – Parity Generator & Checker using Vivado  
+- **AI Project** – Brain Tumor Detection using Deep Learning  
+- **Web3 Contributions** – Community engagement & decentralized app ideas  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g0utam&show_icons=true&theme=tokyonight" alt="Goutam's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g0utam&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=g0utam&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g0utam&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/g0utam/)
-- 🐦 Twitter: [@g0utam_s](https://x.com/g0utam_s)
-- 📧 Email: gsahu22.ece@outlook.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/g0utam_s">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="mailto:gsahu22.ece@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook"/>
+  </a>
+</p>
 
 ---
 
-> “Creativity is intelligence having fun.” — *Albert Einstein*
+> *“Creativity is intelligence having fun.”* — Albert Einstein
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer"/>
+</p>
