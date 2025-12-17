@@ -83,13 +83,13 @@ I strongly believe that **engineering + creativity = impact**.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/g0utam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/g0utam_s">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
-  <a href="mailto:gsahu22.ece@outlook.com">
+  <a href="mailto:gsahu.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook"/>
   </a>
 </p>
