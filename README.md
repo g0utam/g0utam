@@ -1,13 +1,26 @@
-<!-- PROFILE BANNER -->
+<!-- CUSTOM PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Goutam%20Sahu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img 
+    src="https://raw.githubusercontent.com/g0utam/g0utam/main/gitbanner.jpg" 
+    alt="Goutam Sahu Banner" 
+    width="100%" 
+  />
+</p>
+
+<!-- SMOOTH WAVE EFFECT (DARK-MODE FRIENDLY) -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving
+    &color=0:0f2027,50:203a43,100:2c5364
+    &height=90
+    &animation=fadeIn" 
+  />
 </p>
 
 <h3 align="center">
-Creative Techie | Electronics Engineer | Web3 & AI Enthusiast | Designer
+  Creative Techie | Electronics Engineer | Web3 & AI Enthusiast | Designer
 </h3>
 
----
 
 ## 👋 About Me
 
