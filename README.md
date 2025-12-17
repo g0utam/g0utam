@@ -33,12 +33,12 @@ I strongly believe that **engineering + creativity = impact**.
 
 ## 🏫 Leadership & Club Positions
 
-🎨 **Co-Head – Malang**  2025-26
+🎨 **Co-Head – Malang**
 *Fine Arts & Photography Club, BVUCOE Pune*  
 - Leading creative direction, exhibitions, and inter-college cultural events  
 - Managing design, photography, and visual storytelling initiatives  
 
-🖌️ **Head Graphic Designer – BLOTIC**  2024-25
+🖌️ **Head Graphic Designer – BLOTIC**
 *College Web3 & Blockchain Club*  
 - Built and maintained the club’s visual identity  
 - Designed event creatives, posters, social media assets, and branding  
